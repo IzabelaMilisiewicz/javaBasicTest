@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="test1" verbose="3">
+<!--    <test name="ChromeTest" preserve-order="true" enabled="true">-->
+<!--        <classes>-->
+<!--            <class name="ChromeTest"></class>-->
+<!--        </classes>-->
+<!--    </test>-->
+
+    <test name="Localizators" preserve-order="true" enabled="true">
+        <classes>
+            <class name="Localizators">
+                <methods>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+</suite>
